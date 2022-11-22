@@ -24,9 +24,6 @@
 
 [![GLFei's github stats](https://github-readme-stats.vercel.app/api?username=Glfei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- https://metrics.lecoq.io/ -->
-![metrics](./github-metrics.svg)
-
 
 <!--
 appears on your GitHub profile.
